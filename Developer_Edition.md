@@ -109,3 +109,5 @@ The best thing about these services is they allow for public and private reposit
 > ## Final Note
 
 This may seem overwhelming but it's ok. No one will learn all of this in a day. It takes time and practice. Don't worry about making mistakes. Mistakes are progress.
+
+With each keystroke you are becoming the developer you are meant to become.
