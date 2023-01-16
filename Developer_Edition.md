@@ -1,6 +1,6 @@
 # Why Has Nobody Told Me This Before? ***(Developer Edition)***
 
-This repo is a collection of things I would hope someone would tell me about if I was started web dev today.
+This repo is a collection of things I would hope someone would tell me about if I started web development today.
 
 <br/>
 
@@ -101,3 +101,5 @@ For version control (having a history of your code), most people either use:
 1. [GitHub](https://github.com/) which is owned by Microsoft 
 1. [Bitbucket](https://bitbucket.org/product) which is owned by the same people that make Jira aka Atlassian
 1. [GitLab](https://about.gitlab.com/)
+
+The best thing about these services is they allow for public and private repositories.
