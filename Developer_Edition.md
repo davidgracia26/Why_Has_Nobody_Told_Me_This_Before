@@ -45,6 +45,10 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 
 [Javascript Roadmap](https://roadmap.sh/javascript/)
 
+### **Courses**
+
+[Udemy React Course by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
 <br/>
 
 > ## Back End Resources
