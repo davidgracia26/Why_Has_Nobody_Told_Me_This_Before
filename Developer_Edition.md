@@ -18,10 +18,6 @@ If you're looking for a good place to play around with C# then [Dot Net Fiddle](
 
 > ## Front End Resources
 
-This was the first book I read on HTML & CSS: [HTML and CSS: Design and Build Websites](https://www.barnesandnoble.com/w/html-and-css-jon-duckett/1111446793?ean=9781118008188)
-
-This was the first book I read on Javascript: [JavaScript and jQuery: Interactive Front-End Web Development](https://www.barnesandnoble.com/w/javascript-and-jquery-jon-duckett/1119294449?ean=9781118531648)
-
 ### **Layout of HTML**
 
 The ease of arranging things with CSS has grown over the last few years. Grid and Flexbox are two of the biggest reasons why.
@@ -49,6 +45,12 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 
 [Udemy React Course by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
+### **Books**
+
+This was the first book I read on HTML & CSS: [HTML and CSS: Design and Build Websites](https://www.barnesandnoble.com/w/html-and-css-jon-duckett/1111446793?ean=9781118008188)
+
+This was the first book I read on Javascript: [JavaScript and jQuery: Interactive Front-End Web Development](https://www.barnesandnoble.com/w/javascript-and-jquery-jon-duckett/1119294449?ean=9781118531648)
+
 <br/>
 
 > ## Back End Resources
@@ -65,6 +67,14 @@ If you're building an API you're going to want to use [Postman](https://www.post
 
 [Hot Chocolate](https://chillicream.com/docs/hotchocolate) is the weapon of choice for use with C# and GraphQL.
 
+### **Courses**
+
+[Learning C# on Pluralsight via their path](https://www.pluralsight.com/paths/csharp)
+
+### **Books**
+
+[C# 10 in a Nutshell: The Definitive Reference](https://www.barnesandnoble.com/w/c-10-in-a-nutshell-joseph-albahari/1140530175)
+
 <br/>
 
 > ## Where to Go When You Have Questions
@@ -78,6 +88,8 @@ Each year Stack Overflow publishes a [developer survey](https://survey.stackover
 [O'Reilly Media](https://www.oreilly.com/search/?q=books&type=article&type=book&type=journal) has some great books to help you learn and they're written by some of the best in the industry.
 
 [dev.to](https://dev.to/) is a good place to go if you want to showcase your knowledge and is also a good place to look for examples of how things are done by other devs. It has grown in popularity over the last 5 years.
+
+Ask another developer. It's ok to ask for help.
 
 <br/>
 
