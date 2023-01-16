@@ -22,8 +22,6 @@ This was the first book I read on HTML & CSS: [HTML and CSS: Design and Build We
 
 This was the first book I read on Javascript: [JavaScript and jQuery: Interactive Front-End Web Development](https://www.barnesandnoble.com/w/javascript-and-jquery-jon-duckett/1119294449?ean=9781118531648)
 
-<br/>
-
 ### **Layout of HTML**
 
 The ease of arranging things with CSS has grown over the last few years. Grid and Flexbox are two of the biggest reasons why.
@@ -33,8 +31,6 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 1. [Flexbox Froggy](https://flexboxfroggy.com/) - a game to learn flexbox
 1. [Codepip also has several other CSS and HTML games to help you learn](https://codepip.com/games/)
 
-<br/>
-
 ### **Javascript is the most used programming lanuage in the world**
 
 1. [Javascript](https://www.javascript.com/resources) - I suggest [Eloquent Javascript](https://eloquentjavascript.net/) and [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
@@ -42,8 +38,6 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 1. [React Docs](https://reactjs.org/) - the most popular front end library in use right now
 1. [MUI](https://mui.com/material-ui/getting-started/overview/) - a very popular library that has pre-built components
 1. [Apollo client](https://www.apollographql.com/docs/react/) - used in conjuction with GraphQL
-
-<br/>
 
 ### **This is the Way aka Road Maps**
 
