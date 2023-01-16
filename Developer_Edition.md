@@ -6,8 +6,6 @@ This repo is a collection of things I would hope someone would tell me about if 
 
 > ## Developer Environment
 
-<br/>
-
 Most people use [Visual Studio Code](https://code.visualstudio.com/) which is made by Microsoft so it has great support behind it. It supports HTML, CSS, and JS out of the box. Support for most languages can be added via [extensions](https://code.visualstudio.com/docs/editor/extension-marketplace#:~:text=VS%20Code%20extensions%20let%20you,APIs%20used%20by%20VS%20Code.).
 
 If you don't feel like installing things on your computer, you can use [StackBlitz](https://stackblitz.com/) which allows you to set up an environment quickly as long as all you need is Javascript or a Node environment. And if you have an account you can save your setup for future use.
@@ -19,8 +17,6 @@ If you're looking for a good place to play around with C# then [Dot Net Fiddle](
 <br/>
 
 > ## Front End Resources
-
-<br/>
 
 This was the first book I read on HTML & CSS: [HTML and CSS: Design and Build Websites](https://www.barnesandnoble.com/w/html-and-css-jon-duckett/1111446793?ean=9781118008188)
 
@@ -59,8 +55,6 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 
 > ## Back End Resources
 
-<br/>
-
 The bleeding edge of .Net is .Net 7 but having .Net 6 is good enough at the moment because it is well supported.
 
 [Dot Net Core Roadmap](https://roadmap.sh/aspnet-core/)
@@ -77,8 +71,6 @@ If you're building an API you're going to want to use [Postman](https://www.post
 
 > ## Where to Go When You Have Questions
 
-<br/>
-
 You may find refining your [Google searches](https://support.google.com/websearch/answer/2466433?hl=en) will help with what you're looking for. I sometimes use the extra query terms but usually asking questions Google can understand will help bring back what you need. It's all about keywords. 
 
 [Stack Overflow](https://stackoverflow.com/) is written in with .Net on the back end. It is the place to go on the internet if you have any question about development. If you have a question, there is a good chance someone has asked it before. The best answers are upvoted and appear near the top.
@@ -92,8 +84,6 @@ Each year Stack Overflow publishes a [developer survey](https://survey.stackover
 <br/>
 
 > ## Advanced Topics
-
-<br/>
 
 At some point you are going to want to put your code outside of your computer and in the cloud. [Getting Started with Git](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) will help with how to put your code for others to see or just keep it in a safe place in case your computer dies. Here is some more advanced [Advanced Git](https://git-scm.com/) topics but usually Visual Studio Code will take care of all the actions for you with buttons instead of having to write commands.
 
