@@ -1,4 +1,4 @@
-# Why Has Nobody Told Me This Before (Developer Edition)
+# Why Has Nobody Told Me This Before? ***(Developer Edition)***
 
 This repo is a collection of things I would hope someone would tell me about if I was started web dev today.
 
