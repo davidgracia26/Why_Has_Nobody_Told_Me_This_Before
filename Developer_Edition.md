@@ -2,7 +2,11 @@
 
 This repo is a collection of things I would hope someone would tell me about if I was started web dev today.
 
+<br/>
+
 > ## Developer Environment
+
+<br/>
 
 Most people use [Visual Studio Code](https://code.visualstudio.com/) which is made by Microsoft so it has great support behind it. It supports HTML, CSS, and JS out of the box. Support for most languages can be added via [extensions](https://code.visualstudio.com/docs/editor/extension-marketplace#:~:text=VS%20Code%20extensions%20let%20you,APIs%20used%20by%20VS%20Code.).
 
@@ -12,13 +16,19 @@ If you don't feel like installing things on your computer, you can use [StackBli
 
 If you're looking for a good place to play around with C# then [Dot Net Fiddle](https://dotnetfiddle.net/) is a great place to test your code.
 
+<br/>
+
 > ## Front End Resources
+
+<br/>
 
 This was the first book I read on HTML & CSS: [HTML and CSS: Design and Build Websites](https://www.barnesandnoble.com/w/html-and-css-jon-duckett/1111446793?ean=9781118008188)
 
 This was the first book I read on Javascript: [JavaScript and jQuery: Interactive Front-End Web Development](https://www.barnesandnoble.com/w/javascript-and-jquery-jon-duckett/1119294449?ean=9781118531648)
 
-### Layout of HTML
+<br/>
+
+### **Layout of HTML**
 
 The ease of arranging things with CSS has grown over the last few years. Grid and Flexbox are two of the biggest reasons why.
 
@@ -27,7 +37,9 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 1. [Flexbox Froggy](https://flexboxfroggy.com/) - a game to learn flexbox
 1. [Codepip also has several other CSS and HTML games to help you learn](https://codepip.com/games/)
 
-### Javascript is the most used programming lanuage in the world
+<br/>
+
+### **Javascript is the most used programming lanuage in the world**
 
 1. [Javascript](https://www.javascript.com/resources) - I suggest [Eloquent Javascript](https://eloquentjavascript.net/) and [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
 1. [Mozilla Foundation](https://developer.mozilla.org/en-US/) - has docs for HTML, CSS, and Javascript
@@ -35,13 +47,19 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 1. [MUI](https://mui.com/material-ui/getting-started/overview/) - a very popular library that has pre-built components
 1. [Apollo client](https://www.apollographql.com/docs/react/) - used in conjuction with GraphQL
 
-### This is the Way aka Road Maps
+<br/>
+
+### **This is the Way aka Road Maps**
 
 [Front End Developer Roadmap](https://roadmap.sh/frontend/)
 
 [Javascript Roadmap](https://roadmap.sh/javascript/)
 
+<br/>
+
 > ## Back End Resources
+
+<br/>
 
 The bleeding edge of .Net is .Net 7 but having .Net 6 is good enough at the moment because it is well supported.
 
@@ -55,7 +73,11 @@ If you're building an API you're going to want to use [Postman](https://www.post
 
 [Hot Chocolate](https://chillicream.com/docs/hotchocolate) is the weapon of choice for use with C# and GraphQL.
 
+<br/>
+
 > ## Where to Go When You Have Questions
+
+<br/>
 
 You may find refining your [Google searches](https://support.google.com/websearch/answer/2466433?hl=en) will help with what you're looking for. I sometimes use the extra query terms but usually asking questions Google can understand will help bring back what you need. It's all about keywords. 
 
@@ -67,7 +89,11 @@ Each year Stack Overflow publishes a [developer survey](https://survey.stackover
 
 [dev.to](https://dev.to/) is a good place to go if you want to showcase your knowledge and is also a good place to look for examples of how things are done by other devs. It has grown in popularity over the last 5 years.
 
+<br/>
+
 > ## Advanced Topics
+
+<br/>
 
 At some point you are going to want to put your code outside of your computer and in the cloud. [Getting Started with Git](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) will help with how to put your code for others to see or just keep it in a safe place in case your computer dies. Here is some more advanced [Advanced Git](https://git-scm.com/) topics but usually Visual Studio Code will take care of all the actions for you with buttons instead of having to write commands.
 
