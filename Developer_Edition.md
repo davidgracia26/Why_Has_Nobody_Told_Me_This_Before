@@ -57,8 +57,6 @@ This was the first book I read on Javascript: [JavaScript and jQuery: Interactiv
 
 The bleeding edge of .Net is .Net 7 but having .Net 6 is good enough at the moment because it is well supported.
 
-[Dot Net Core Roadmap](https://roadmap.sh/aspnet-core/)
-
 If you're building an API you're going to want to use [Postman](https://www.postman.com/) which allows you to write collections of tests for your endpoints. It can also be used for GraphQL.
 
 [What is my API telling me?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) Deciphering HTTP status codes is half the battle when determining what happened with your code.
@@ -66,6 +64,10 @@ If you're building an API you're going to want to use [Postman](https://www.post
 [GraphQL](https://graphql.org/) allows you to create a graph layer that can be queried and mutated. It is a way to move towards version-less APIs. Less breaking changes = faster development and happy consumption by outside users.
 
 [Hot Chocolate](https://chillicream.com/docs/hotchocolate) is the weapon of choice for use with C# and GraphQL.
+
+### **This is the Way aka Road Maps**
+
+[Dot Net Core Roadmap](https://roadmap.sh/aspnet-core/)
 
 ### **Courses**
 
