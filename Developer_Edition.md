@@ -10,7 +10,7 @@ Most people use [Visual Studio Code](https://code.visualstudio.com/) which is ma
 
 If you don't feel like installing things on your computer, you can use [StackBlitz](https://stackblitz.com/) which allows you to set up an environment quickly as long as all you need is Javascript or a Node environment. And if you have an account you can save your setup for future use.
 
-[Replit](https://replit.com/languages/csharp) is a good resource if you need to test a server side language's code in addition to javscript.
+[Replit](https://replit.com/languages/csharp) is a good resource if you need to test a server side language's code in addition to Javascript.
 
 If you're looking for a good place to play around with C# then [Dot Net Fiddle](https://dotnetfiddle.net/) is a great place to test your code.
 
@@ -27,7 +27,7 @@ The ease of arranging things with CSS has grown over the last few years. Grid an
 1. [Flexbox Froggy](https://flexboxfroggy.com/) - a game to learn flexbox
 1. [Codepip also has several other CSS and HTML games to help you learn](https://codepip.com/games/)
 
-### **Javascript is the most used programming lanuage in the world**
+### **Javascript is the most used programming language in the world**
 
 1. [Javascript](https://www.javascript.com/resources) - I suggest [Eloquent Javascript](https://eloquentjavascript.net/) and [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
 1. [Mozilla Foundation](https://developer.mozilla.org/en-US/) - has docs for HTML, CSS, and Javascript
@@ -61,7 +61,7 @@ The bleeding edge of .Net is .Net 7 but having .Net 6 is good enough at the mome
 
 If you're building an API you're going to want to use [Postman](https://www.postman.com/) which allows you to write collections of tests for your endpoints. It can also be used for GraphQL.
 
-[What is my API telling me?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status). Deciphering HTTP status codes is half the battle when determining what happened with your code.
+[What is my API telling me?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status Deciphering HTTP status codes is half the battle when determining what happened with your code.
 
 [GraphQL](https://graphql.org/) allows you to create a graph layer that can be queried and mutated. It is a way to move towards version-less APIs. Less breaking changes = faster development and happy consumption by outside users.
 
