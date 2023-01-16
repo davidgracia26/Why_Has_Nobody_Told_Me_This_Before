@@ -83,7 +83,7 @@ If you're building an API you're going to want to use [Postman](https://www.post
 
 You may find refining your [Google searches](https://support.google.com/websearch/answer/2466433?hl=en) will help with what you're looking for. I sometimes use the extra query terms but usually asking questions Google can understand will help bring back what you need. It's all about keywords. 
 
-[Stack Overflow](https://stackoverflow.com/) is written in with .Net on the back end. It is the place to go on the internet if you have any question about development. If you have a question, there is a good chance someone has asked it before. The best answers are upvoted and appear near the top.
+[Stack Overflow](https://stackoverflow.com/) is written in .Net on the back end. It is the place to go on the internet if you have any question about development. If you have a question, there is a good chance someone has asked it before. The best answers are upvoted and appear near the top.
 
 Each year Stack Overflow publishes a [developer survey](https://survey.stackoverflow.co/2022/) which includes information about emerging and stale technologies and salaries.
 
