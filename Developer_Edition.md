@@ -61,7 +61,7 @@ The bleeding edge of .Net is .Net 7 but having .Net 6 is good enough at the mome
 
 If you're building an API you're going to want to use [Postman](https://www.postman.com/) which allows you to write collections of tests for your endpoints. It can also be used for GraphQL.
 
-[What is my API telling me?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status Deciphering HTTP status codes is half the battle when determining what happened with your code.
+[What is my API telling me?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) Deciphering HTTP status codes is half the battle when determining what happened with your code.
 
 [GraphQL](https://graphql.org/) allows you to create a graph layer that can be queried and mutated. It is a way to move towards version-less APIs. Less breaking changes = faster development and happy consumption by outside users.
 
