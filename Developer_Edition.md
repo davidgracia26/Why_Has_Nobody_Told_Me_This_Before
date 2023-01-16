@@ -103,3 +103,9 @@ For version control (having a history of your code), most people either use:
 1. [GitLab](https://about.gitlab.com/)
 
 The best thing about these services is they allow for public and private repositories.
+
+<br/>
+
+> ## Final Note
+
+This may seem overwhelming but it's ok. No one will learn all of this in a day. It takes time and practice. Don't worry about making mistakes. Mistakes are progress.
